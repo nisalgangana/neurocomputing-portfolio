@@ -1,0 +1,6 @@
+LEARNING_RATE = 0.1
+EPOCHS = 10
+SEED = 42
+
+PATTERN_SIZE = 16   # 4x4 patterns
+NOISE_LEVELS = [0.0, 0.1, 0.2, 0.3, 0.4]

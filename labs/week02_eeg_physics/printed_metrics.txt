@@ -1,0 +1,16 @@
+Printed Metric Values - MS26910222 Wickramathilaka N.G.
+=======================================================
+
+Sync RMS  (N=50): 35.3377
+Sync Peak (N=50): 49.9999
+Async RMS (N=50): 4.5836
+Async Peak(N=50): 6.4790
+
+Peak potential vs depth (V = p/r^2):
+  depth 0.02 -> 2500.00
+  depth 0.05 -> 400.00
+  depth 0.10 -> 100.00
+  depth 0.20 -> 25.00
+
+theta_zero (V ~ 0): 1.5629 rad (~ pi/2 = 1.5708)
+theta_max  (V max): 0.0000 rad

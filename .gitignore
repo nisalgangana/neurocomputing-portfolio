@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large datasets (download from PhysioNet / sklearn instead)
+eeg-motor-movementimagery-dataset-1.0.0/
+MNE-eegbci-data/
+mnist*/
+*.edf
+*.h5
+
+# Archives and exports
+*.zip
+*.rar
+*.pdf
+*.docx
+!labs/**/MS26910222_Lab*_Answers.docx
